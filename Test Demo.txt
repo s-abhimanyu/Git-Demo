@@ -1,7 +1,7 @@
 My own push 
 
 
-
+conlict from git 
 
 Conflict
 
