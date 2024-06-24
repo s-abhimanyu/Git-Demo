@@ -7,3 +7,6 @@ Conflict
 
 
 Edited from git hub
+
+
+changes from vs code 
