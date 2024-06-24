@@ -1,5 +1,5 @@
 My own push 
 
-
+Changed conflict
 
 Edited from git hub
