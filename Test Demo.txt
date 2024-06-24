@@ -3,6 +3,8 @@ My own push
 
 conflict from vs code
 
+conlict from git 
+
 Conflict
 
 
