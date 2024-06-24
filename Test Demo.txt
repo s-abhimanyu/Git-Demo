@@ -1,5 +1,9 @@
 My own push 
 
+<<<<<<< HEAD
 Changed conflict
+=======
+Conflict
+>>>>>>> b15379051d5e3cff4ad3375cfc02d27735956d32
 
 Edited from git hub
