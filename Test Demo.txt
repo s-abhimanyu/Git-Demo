@@ -2,7 +2,7 @@ My own pushd
 
 
 editor 
-
+dasdasdadad
 editor in vs code 
 
 conflict from vs code
