@@ -1,4 +1,7 @@
-My own push 
+My own pushd
+
+
+editor 
 
 editor in vs code 
 
